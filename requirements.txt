@@ -4,6 +4,10 @@ click
 pytest
 pytest-cov
 black
+<<<<<<< HEAD
 flask
 powerline-gitstatus
 powerline-status
+=======
+flask
+>>>>>>> 480f0319e7aba913e0ce6465094e39b0d91f90c8
