@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #!/usr/bin/env python
 
 """This is a test"""
@@ -25,6 +24,3 @@ def calculate(value1, value2):
 if __name__ == "__main__":
     #pylint: disable=no-value-for-parameter
     calculate()
-=======
-"""This is a test"""
->>>>>>> 480f0319e7aba913e0ce6465094e39b0d91f90c8
