@@ -11,7 +11,7 @@ test:
 	#python -m pytest --nbval notebook.ipynb
 
 lint:
-	pylint --disable=R,C,E1120 helloclick.py
+	pylint --disable=R,C,E1120 hello.py
 	
 format:
 	black *.py
