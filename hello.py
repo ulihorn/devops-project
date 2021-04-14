@@ -21,6 +21,7 @@ def calculate(value1, value2, name):
     click.echo(click.style(f"Result: {result}", fg="blue"))
     click.echo(click.style(f"Name: {name}", bg="black", fg="green"))
 
+
 if __name__ == "__main__":
     # pylint: disable=no-value-for-parameter
     calculate()
