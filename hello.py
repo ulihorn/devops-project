@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #!/usr/bin/env python
 
 """This is a test"""
