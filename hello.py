@@ -8,7 +8,6 @@ import click
 
 from mylib.myadd import add
 
-var=
 
 
 
