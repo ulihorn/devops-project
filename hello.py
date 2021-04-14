@@ -8,6 +8,8 @@ import click
 
 from mylib.myadd import add
 
+var=
+
 
 @click.command()
 @click.option("--value1", default=1, help="The first number to add")
