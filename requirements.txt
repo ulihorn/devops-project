@@ -5,3 +5,5 @@ pytest
 pytest-cov
 black
 flask
+powerline-gitstatus
+powerline-status
